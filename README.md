@@ -10,8 +10,13 @@ TECHNOLOGIES USED
 3.Sqlite for managing the Database.
 
 Add your Face Database into Facerec folder.
+
 Then run python script a.py 
+
 eg. python a.py Facerec/ b.csv
+
 Update values of rec_op string (line 127) according to .csv file,
+
 Then train your data set using try.cpp file.
+
 # Smart-Attandence
