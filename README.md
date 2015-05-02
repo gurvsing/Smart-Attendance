@@ -19,4 +19,6 @@ Update values of rec_op string (line 127) according to .csv file,
 
 Then train your data set using try.cpp file.
 
+For more Details read DBMSProj.pdf
+
 # Smart-Attandence
